@@ -30,5 +30,4 @@ N/A
 Continue to add more prompts for the user.
 
 # Questions 
-If you have any questions about the repo, open an issue or contact me directly at jerrygarcia@gmail.com. You can find more of my work at [KeepTheLidOnTight]
-(https://github.com/KeepTheLidOnTight/).
+If you have any questions about the repo, open an issue or contact me directly at jerrygarcia@gmail.com. You can find more of my work at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
