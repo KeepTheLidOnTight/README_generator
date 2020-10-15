@@ -1,25 +1,21 @@
 # readmeGenerator
 
-node readme generator
-
-## Contact Info
-
-john.doe@gmail.com
-
-KeepTheLidOnTight
+node read me generator
 
 ## Contributing
 
 
 
-##Installation
+## Installation
 
 npm i
 
 ## Tests
 To run tests, run the following command:
 
+```
 npm test
+```
 
 ## Questions
 
@@ -29,5 +25,5 @@ npm test
 
 MIT
 
-If you have any questions about the repo, open an issue or contact me directly at john.doe@gmail.com. You can find more of my work at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
+If you have any questions about the repo, open an issue or contact me directly at jerrygarcia@gmail.com. You can find more of my work at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
 

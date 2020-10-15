@@ -4,24 +4,20 @@ return `# ${data.title}
 
 ${data.description}
 
-## Contact Info
-
-${data.email}
-
-${data.github}
-
 ## Contributing
 
 ${data.contributing}
 
-##Installation
+## Installation
 
 ${data.installation}
 
 ## Tests
 To run tests, run the following command:
 
+\`\`\`
 ${data.test}
+\`\`\`
 
 ## Questions
 
