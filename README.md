@@ -1,6 +1,6 @@
 # readmeGenerator
 
-node read me generator
+node readme generator
 
 ## Contributing
 
@@ -8,7 +8,9 @@ node read me generator
 
 ## Installation
 
+```
 npm i
+```
 
 ## Tests
 To run tests, run the following command:

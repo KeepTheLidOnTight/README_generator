@@ -10,7 +10,9 @@ ${data.contributing}
 
 ## Installation
 
+\`\`\`
 ${data.installation}
+\`\`\`
 
 ## Tests
 To run tests, run the following command:
